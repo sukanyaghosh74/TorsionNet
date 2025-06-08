@@ -1,0 +1,10 @@
+model:
+  name: "gpt2"
+  temperature: 0.8
+  max_length: 100
+
+validation:
+  use_torsion: true
+  disallowed_paths:
+    - ["Paris", "Jupiter"]
+    - ["Dog", "Mathematics"]

@@ -1,0 +1,6 @@
+{
+  "locations": ["Paris", "London", "New York"],
+  "planets": ["Mars", "Jupiter", "Venus"],
+  "animals": ["Dog", "Cat"],
+  "subjects": ["Mathematics", "History"]
+}
