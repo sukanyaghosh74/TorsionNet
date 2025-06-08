@@ -129,7 +129,7 @@ Validates text against the concept graph:
 
 ## 📚 Inspired By
 
-* [David Hodge's post on topological hallucinations](https://www.linkedin.com/posts/dhodge360)
+* [David Hodge's post on topological hallucinations](https://www.linkedin.com/posts/dhodge360_%F0%9D%97%9C-%F0%9D%98%84%F0%9D%97%AE%F0%9D%98%80-%F0%9D%98%84%F0%9D%97%BF%F0%9D%97%BC%F0%9D%97%BB%F0%9D%97%B4-%F0%9D%97%AE%F0%9D%97%AF%F0%9D%97%BC%F0%9D%98%82%F0%9D%98%81-%F0%9D%97%B5%F0%9D%97%AE%F0%9D%97%B9%F0%9D%97%B9%F0%9D%98%82%F0%9D%97%B0%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%AE%F0%9D%98%81%F0%9D%97%B6%F0%9D%97%BC%F0%9D%97%BB%F0%9D%98%80-activity-7337238955177746433-cKEC?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAELwLrYBt0Kc-TjVnoLJKLO9z431kaRM3WI&utm_campaign=copy_link)
 * Alain Connes’ **Noncommutative Geometry**
 * Michael Spivak’s **A Comprehensive Introduction to Differential Geometry**
 * Category Theory & Sheaf Cohomology in AI semantics
