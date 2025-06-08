@@ -139,7 +139,7 @@ Validates text against the concept graph:
 ## 📌 Citation / Acknowledgment
 
 > "TorsionNet: Topological Reasoning to Prevent Transformer Hallucinations"
-> Authored by: \Sukanya Ghosh
+> Authored by: Sukanya Ghosh
 > Inspired by foundational ideas in category theory, topology, and emergent AI reasoning.
 
 ---
